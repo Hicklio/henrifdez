@@ -28,7 +28,7 @@
  
 <hr>
 
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=henrifdez&left_color=prey&right_color=red)
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=henrifdez&left_color=purple&right_color=red)
 
  
  <hr>
