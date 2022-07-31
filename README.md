@@ -3,8 +3,8 @@
 ##
 <hr>
 <h4 align="center">
- 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif) 
 <div align="center">
   <a href="https://github.com/henrifdez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrifdez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,7 +16,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;"src="https://c.tenor.com/2XR4UA-C6BAAAAAM/dipper-fall.gif">
+  <img align="right" alt="Henry-pic" height="140" style="border-radius:50px; "src=https://c.tenor.com/2XR4UA-C6BAAAAAM/dipper-fall.gif" >
+
 </div>
   
 ##
